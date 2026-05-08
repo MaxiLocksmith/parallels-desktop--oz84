@@ -1,4 +1,4 @@
-
+Enhance Parallels Desktop for macOS with vip Tool for Parallels Desktop for macOS - window-management and OCR-support, the #1 tool. Includes window-management and OCR-support for
 
 
 
